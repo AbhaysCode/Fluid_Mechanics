@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fluid-mechanics/static/css/main.5b961fca.css",
+    "main.js": "/fluid-mechanics/static/js/main.84b42091.js",
+    "index.html": "/fluid-mechanics/index.html",
+    "main.5b961fca.css.map": "/fluid-mechanics/static/css/main.5b961fca.css.map",
+    "main.84b42091.js.map": "/fluid-mechanics/static/js/main.84b42091.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b961fca.css",
+    "static/js/main.84b42091.js"
+  ]
+}
